@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 exercise 7.s
 con cambios
+=======
+exercise 7.s
+>>>>>>> stash
